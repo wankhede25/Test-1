@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+body{
+    background-color: #fff;
+}
+
+.heading{
+    
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+   
+}
+.heading a{
+    color:#f8f8f8;
+    margin: 15px;
+    
+}
+.main content{
+    padding: 40px 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+.blog{
+    background-color:#f8f8f8; 
+    padding: 20px;
+    border-radius: 8px; 
+    width: 96%; 
+    gap: 20px; 
+    margin: 20px;
+    
+    
+    
+}
+.content1{
+    
+    padding: 20px;
+    border-radius: 8px; 
+    width: 700px;
+}
+.content2{
+    
+    padding: 20px;
+    border-radius: 8px;
+    width: 700px;
+}
+.footer{
+    color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    padding: 20px;
+}
